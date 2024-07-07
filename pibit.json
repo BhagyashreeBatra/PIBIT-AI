@@ -1,0 +1,95 @@
+{
+  "Personal Information": {
+    "Name": "John Doe",
+    "Email": "johndoe@example.com",
+    "Phone": "123-456-7890",
+    "Address": "123 Main St, Anytown, USA",
+    "LinkedIn": "linkedin.com/in/johndoe",
+    "Website": "johndoe.com"
+  },
+  "Education": [
+    {
+      "Institution": "University of Example",
+      "Degree": "Bachelor of Science in Computer Science",
+      "Field of Study": "Computer Science",
+      "Start Year": "2018",
+      "End Year": "2022",
+      "GPA": "3.8"
+    },
+    {
+      "Institution": "Example High School",
+      "Degree": "High School Diploma",
+      "Start Year": "2014",
+      "End Year": "2018",
+      "GPA": "3.9"
+    }
+  ],
+  "Work Experience": [
+    {
+      "Company": "Tech Solutions Inc.",
+      "Position": "Software Engineer",
+      "Location": "Anytown, USA",
+      "Start Date": "June 2022",
+      "End Date": "Present",
+      "Responsibilities": [
+        "Developed and maintained web applications using JavaScript and Python",
+        "Collaborated with cross-functional teams to define, design, and ship new features",
+        "Improved application performance and scalability"
+      ]
+    },
+    {
+      "Company": "Web Innovators LLC",
+      "Position": "Intern",
+      "Location": "Anytown, USA",
+      "Start Date": "June 2021",
+      "End Date": "August 2021",
+      "Responsibilities": [
+        "Assisted in developing web applications using HTML, CSS, and JavaScript",
+        "Participated in code reviews and team meetings"
+      ]
+    }
+  ],
+  "Skills": {
+    "Programming Languages": ["Python", "JavaScript", "Java"],
+    "Frameworks": ["React", "Node.js", "Django"],
+    "Tools": ["Git", "Docker", "Jenkins"],
+    "Soft Skills": ["Team Collaboration", "Problem Solving", "Time Management"]
+  },
+  "Projects": [
+    {
+      "Title": "AI Chatbot",
+      "Description": "Developed an AI chatbot using natural language processing",
+      "Technologies": ["Python", "TensorFlow"],
+      "Link": "github.com/johndoe/aichatbot"
+    },
+    {
+      "Title": "Personal Portfolio Website",
+      "Description": "Created a personal portfolio website to showcase projects and skills",
+      "Technologies": ["HTML", "CSS", "JavaScript"],
+      "Link": "johndoe.com"
+    }
+  ],
+  "Certifications": [
+    {
+      "Title": "Certified AI Specialist",
+      "Issuing Organization": "AI Certification Board",
+      "Year": "2023"
+    },
+    {
+      "Title": "AWS Certified Solutions Architect",
+      "Issuing Organization": "Amazon Web Services",
+      "Year": "2022"
+    }
+  ],
+  "Languages": [
+    {
+      "Language": "English",
+      "Proficiency": "Native"
+    },
+    {
+      "Language": "Spanish",
+      "Proficiency": "Intermediate"
+    }
+  ],
+  "Hobbies": ["Reading", "Hiking", "Photography"]
+}
